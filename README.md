@@ -1,9 +1,11 @@
 # Machine-Learning-Practice-Project
 For Practicing Machine Learning Projects (including the datasets) that I have learnt
 
-- Movies Recommendation System (using movies.csv datasets and Cosine similarity)
-- Big Mart Sales Prediction (using big_mart_data.csv datasets and XGBRegressor)
-- Customer Segmentation (using Mall_Customers.csv datasets and K-Means Clustering)
+- Movies Recommendation System (using movies.csv datasets and Cosine similarity model)
+- Big Mart Sales Prediction (using big_mart_data.csv datasets and XGBoost Regressor model)
+- Customer Segmentation (using Mall_Customers.csv datasets and K-Means Clustering model)
+- Calories Burnt Prediction (using calories.csv and exercise.csv datasets and XGBoost Regressor model)
+- Breast Cancer Classification (using Logistic Regression model)
 
 
 Credit:
