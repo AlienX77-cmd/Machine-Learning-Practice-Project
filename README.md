@@ -3,6 +3,7 @@ For Practicing Machine Learning Projects (including the datasets) that I have le
 
 - Movies Recommendation System (using movies.csv datasets and Cosine similarity)
 - Big Mart Sales Prediction (using big_mart_data.csv datasets and XGBRegressor)
+- Customer Segmentation (using Mall_Customers.csv datasets and K-Means Clustering)
 
 
 Credit:
