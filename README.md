@@ -9,6 +9,10 @@ List of Practice Projects:
 - Calories Burnt Prediction (using calories.csv and exercise.csv datasets and XGBoost Regressor model)
 - Breast Cancer Classification (using Logistic Regression model)
 
+List of ML concepts:
+- GridSearchCV and RandomizedSearchCV
+- Model Selection Concept
+
 
 Credit:
 I have learnt the Machine Learning Concept, Mathematics behind ML models and ML Projects from Siddhardhan (https://www.youtube.com/c/siddhardhan)
