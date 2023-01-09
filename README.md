@@ -13,6 +13,9 @@ List of ML concepts:
 - GridSearchCV and RandomizedSearchCV
 - Model Selection Concept
 
+Building Machine Learning model from scratch with Python
+- Building Linear Regression from scratch with Python (and Numpy)
+
 
 Credit:
 I have learnt the Machine Learning Concept, Mathematics behind ML models and ML Projects from Siddhardhan (https://www.youtube.com/c/siddhardhan)
