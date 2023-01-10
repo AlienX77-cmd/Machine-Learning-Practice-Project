@@ -9,6 +9,7 @@ List of Practice Projects:
 - Customer Segmentation (using Mall_Customers.csv datasets and K-Means Clustering model)
 - Calories Burnt Prediction (using calories.csv and exercise.csv datasets and XGBoost Regressor model)
 - Breast Cancer Classification (using Logistic Regression model)
+- Gold Price Prediction (using gold.csv datasets and RandomForestRegressor model)
 
 List of ML concepts:
 - GridSearchCV and RandomizedSearchCV
