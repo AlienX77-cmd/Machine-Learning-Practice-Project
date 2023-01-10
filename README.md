@@ -17,6 +17,10 @@ List of ML concepts:
 
 Building Machine Learning model from scratch with Python
 - Building Linear Regression from scratch with Python (and Numpy)
+- Building Logistic Regression from scratch with Python (and Numpy)
+- Building Lasso Regression from scratch with Python (and Numpy)
+- Building Support Vector Machine Classifier from scratch with Python (and Numpy)
+- Building K-Nearest Neighbors Classifier from scratch with Python (and Numpy)
 
 
 Credit:
