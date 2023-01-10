@@ -3,6 +3,7 @@ For Practicing Machine Learning Projects (including the datasets) that I have le
 
 List of Practice Projects:
 - Diabetes Prediction (using diabetes.csv datasets and Support Vector Machine model)
+- Loan Status Prediction (using Loan.csv datasets and Support Vector Machine model)
 - Movies Recommendation System (using movies.csv datasets and Cosine Similarity model)
 - Big Mart Sales Prediction (using big_mart_data.csv datasets and XGBoost Regressor model)
 - Customer Segmentation (using Mall_Customers.csv datasets and K-Means Clustering model)
