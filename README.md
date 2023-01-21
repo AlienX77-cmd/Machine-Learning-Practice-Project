@@ -10,6 +10,7 @@ List of Practice Projects:
 - Calories Burnt Prediction (using calories.csv and exercise.csv datasets and XGBoost Regressor model)
 - Breast Cancer Classification (using Logistic Regression model)
 - Gold Price Prediction (using gold.csv datasets and RandomForestRegressor model)
+- Classification Trees [Decision Trees Concept]
 
 List of ML concepts:
 - GridSearchCV and RandomizedSearchCV
